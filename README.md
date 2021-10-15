@@ -4,4 +4,4 @@ Final Report of  Introduction To Robotics Course
 
 In this project, I and Serkan Kas  focused to build an autonomous robot.  We studied some significant topics to built autonomous robots: 
 
-Hardware and software units of basic autonomous robots, kinematics, Robotic Operating System,  Kalman Filter, Particle Filter, SLAM, BreezySLAM algorithm.  At the end of the project, We simulated a robot that works with a SLAM algorithm by using existing data.
+Hardware and software units of basic autonomous robots, kinematics, Robotic Operating System,  Kalman Filter, Particle Filter, SLAM, BreezySLAM algorithm.  At the end of the project, We simulated a robot that works with a SLAM algorithm by using some existing data.
